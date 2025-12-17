@@ -20,7 +20,7 @@ LEARNING_RATE = 2e-5
 
 # --- CAMINHOS (Ajustado conforme seu log) ---
 # Caminho relativo baseado na sua estrutura de pastas
-TRAIN_PATH = "Nivel de Competicao/Golden Standard.csv" 
+TRAIN_PATH = "Nivel de Competicao/Balanced With Sintetic Data.csv" 
 DEV_PATH   = "Datasets/Original/dev.csv" 
 TEST_PATH  = "Datasets/Original/test.csv"
 
