@@ -5,7 +5,7 @@ import os
 import unicodedata
 
 # --- 1. Configurações & Reprodutibilidade ---
-INPUT_FILE = 'Nivel de Competicao/All Organic Data.csv'
+INPUT_FILE = 'Datasets/All Organic Data.csv'
 OUTPUT_FILE = 'Nivel de Competicao/Balanced With Sintetic Data.csv'
 
 # SEED FIXA
