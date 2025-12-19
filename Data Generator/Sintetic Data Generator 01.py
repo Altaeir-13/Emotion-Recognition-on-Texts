@@ -6,7 +6,7 @@ import unicodedata
 
 # --- 1. Configurações & Reprodutibilidade ---
 INPUT_FILE = 'Datasets/All Organic Data.csv'
-OUTPUT_FILE = 'Nivel de Competicao/Balanced With Sintetic Data.csv'
+OUTPUT_FILE = 'Data Generator/Balanced With Sintetic Data.csv'
 
 # SEED FIXA
 SEED = 42

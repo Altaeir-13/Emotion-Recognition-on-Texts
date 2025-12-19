@@ -71,8 +71,8 @@ def avaliar_modelo(caminho_ground_truth, caminho_predicoes):
 # --- Execução Principal ---
 if __name__ == "__main__":
     # Usamos o 'r' antes das aspas para indicar raw string e evitar erros com as barras invertidas do Windows
-    arquivo_gabarito = r"C:\Users\handi\Documents\Estudo\AI\Ground Truth.csv"
-    arquivo_submissao = r"C:\Users\handi\Documents\Estudo\AI\submissao_otimizada.csv"
+    arquivo_gabarito = r"C:\Users\handi\Documents\Estudo\AI\Submission Simulation\Ground Truth.csv"
+    arquivo_submissao = r"C:\Users\handi\Documents\Estudo\AI\Submission Simulation\NOME DO ARQUIVO A SER COMPARADO.csv"
     
     print(f"Lendo gabarito de: {arquivo_gabarito}")
     print(f"Lendo submissão de: {arquivo_submissao}")
